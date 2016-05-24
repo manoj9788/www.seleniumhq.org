@@ -143,6 +143,9 @@
     client/server capabiity</li>
   </ul>
 
+  <h4>Selenium 10 years</h4>
+  <p>Selenium turned 10 years since it's inception. Check out the <a href="https://www.thoughtworks.com/insights/blog/happy-10th-birthday-selenium">timeline </a> that ThoughtWorks, have put together in honour of its 10th birthday.</p>
+  
   <h4>Never started</h4>
 
   <ul>
